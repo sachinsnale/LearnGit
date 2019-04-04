@@ -1,0 +1,5 @@
+Hi,
+
+Thanks for the session. I am able to create the branch using master branch.
+
+Good Practical session :)
